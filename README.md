@@ -27,8 +27,10 @@ Key steps:
 Dependencies
 - The process of Analysis is stored in the Jupyter Notebook 'sentiment_analysis.ipynb'.
 - Pre-req Python Libraries include: re, pandas, maplotlib, seaborn, scikitlearn, wordcloud, nltk, torch, transformers, tqdm.
+- 
 Executing Program
-- To begin, locate jupyter notebook 'NLP.ipynb' and run all cells for results..
+- To begin, locate jupyter notebook 'NLP.ipynb' and run all cells for results.
+  
 Potential Issues
 - Dataset is generated using chatGPT, which can be problematic in the accuracy and reliability of this dataset.
 - Based on the sentiment analysis of each post' original text, there are issues of mislabeling sentiments, which can significantly affect the sentiment analysis.
